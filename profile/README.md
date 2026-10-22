@@ -1,4 +1,4 @@
-![Hermez](https://raw.githubusercontent.com/SalvadorCardona/brand-assets/main/projects/hermez/banner.png)
+![Hermez](https://raw.githubusercontent.com/hermez-agency/brand-assets/main/projects/hermez/banner.png)
 
 **Hermez** is a digital agency that builds SaaS products, AI tools and open source libraries.
 Every product below is *A Hermez product*. Learn more at [hermez.dev](https://hermez.dev).
